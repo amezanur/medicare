@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/background_category1.xml" value="0.11840277777777777" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/background_splashscreen.xml" value="0.23897435897435898" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/calander.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/calendar_cstm.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.11284722222222222" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_add_medicine.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_alarm_receiver.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_appointment_main.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_bookingdr.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_fingerprint_sign_in.xml" value="0.10280054644808743" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_home.xml" value="0.165" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_journal_main.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_list_rv.xml" value="0.15104166666666666" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_main2.xml" value="0.16802536231884058" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_medicine_main.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_nav_bottom.xml" value="0.15104166666666666" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_reminder_main.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_report.xml" value="0.10208333333333333" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_sign_up.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_time.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_user_profile.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/activity_view_journal.xml" value="0.13576388888888888" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/background_splash.xml" value="0.15364583333333334" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/background_splashscreen.xml" value="0.125" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/list_item.xml" value="0.13576388888888888" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/splash_screen.xml" value="0.12092391304347826" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/layout/view.xml" value="0.165" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/menu/navigationbar.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/AFIFAH/app/src/main/res/menu/profile_menu.xml" value="0.25" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/MEDICARE/MEDICARE/app/src/main/res/layout/activity_nav_bottom.xml" value="0.15104166666666666" />
+        <entry key="..\:/SEM 1 21_22/BCI3283 MOBILE APP DEVELOPMENT/FINAL PROJECT/MEDICARE/app/src/main/res/layout/activity_journal_main.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

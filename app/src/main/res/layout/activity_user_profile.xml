@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    android:gravity="center"
+    tools:context=".UserProfile">
+
+
+        <Button
+            android:id="@+id/btnEditProfile"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="135dp"
+            android:backgroundTint="@color/blue1"
+            android:fontFamily="@font/poppins_medium"
+            android:shadowColor="@color/black"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:cornerRadius="6dp"
+            app:icon="@drawable/ic_edit"
+            app:iconSize="30dp"
+            app:shadowEnabled="true" />
+
+        <ImageView
+        android:id="@+id/profileImage"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:src="@drawable/ic_name" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/fullName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Full Name"
+            android:inputType="textPersonName"
+            android:textSize="16sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/username1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Username"
+            android:inputType="textPersonName"
+            android:textSize="16sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/email1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:textSize="16sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/phone1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:textSize="16sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/address1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Address"
+            android:inputType="textPostalAddress"
+            android:textSize="16sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/password1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="Password"
+            android:inputType="text"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:text="Save profile"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cornerRadius="4dp"
+            android:backgroundTint="@color/blue3"
+            android:fontFamily="@font/poppins_medium" />
+
+        <Button
+            android:id="@+id/btnDeleteProfile"
+            android:text="Delete account"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cornerRadius="4dp"
+            android:backgroundTint="#D30000"
+            android:fontFamily="@font/poppins_medium"/>
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:text="Cancel"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cornerRadius="4dp"
+            android:backgroundTint="@color/gray"
+            android:fontFamily="@font/poppins_medium"/>
+
+
+</LinearLayout>
